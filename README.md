@@ -34,9 +34,9 @@
 
 ## 🚀 Projects & Interests
 
-### 🤖 AI & IoT Projects
+### 🤖 AIML
 
-Exploring projects that combine **Artificial Intelligence with IoT** to solve real-world problems and create smarter systems.
+Exploring projects that combine **Artificial Intelligence AND Machiine learning** to solve real-world problems.
 
 ### 🌐 Web Development
 
@@ -51,7 +51,6 @@ Working on **Data Structures and Algorithms** to improve logical thinking, probl
 Interested in developing projects around:
 
 * Artificial Intelligence
-* Internet of Things
 * AR/VR & Visualization
 * Smart Education
 * Automation
@@ -130,7 +129,7 @@ while (learning)
 
 ## 🌟 Fun Fact
 
-> I believe the best way to learn technology is to **build something with it.** 🚀
+> My favorite way to learn something new? **Build it, break it, fix it, repeat.** 🔄💻
 
 ---
 
