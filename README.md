@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Engineering Student • Developer • Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Explore+%7C+Create+%7C+Innovate...;C+%7C+C%2B%2B+%7C+Java+%7C;AI+%7C+%7C+Web+Development;Solving+Problems+Though+Technology."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Explore+%7C+Create+%7C+Innovate...;C+%7C+C%2B%2B+%7C+Java+%7C;AI+%7C+Web+Development;Solving+Problems+Though+Technology."/>
 
 </div>
 
@@ -15,7 +15,7 @@
 * 🎓 Computer Science Engineering Student
 * 💻 Passionate about programming and problem solving
 * 🚀 Interested in building practical and innovative projects
-* 🤖 Exploring **AI, IoT, and emerging technologies**
+* 🤖 Exploring **AI, and emerging technologies**
 * 🧠 Currently strengthening my **DSA and programming fundamentals**
 * 🌱 Always learning something new and improving my technical skills
 * 🏆 Actively participating in **hackathons, workshops, and tech communities**
