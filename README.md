@@ -37,9 +37,9 @@ Exploring the world of AI and software development — turning ideas into code, 
 
 <p align="center">
   <img
-    src="https://ghchart.xqsit94.in/dark:default/divyanshichaurasia2024-beep"
-    width="100%"
+    src="https://ghchart.rshah.org/008000/divyanshichaurasia2024-beep"
     alt="GitHub Contribution Calendar"
+    width="100%"
   />
 </p>
 
