@@ -33,14 +33,13 @@ Exploring the world of AI and software development — turning ideas into code, 
 
 ---
 
-
 ## Contribution Graph
 
 <p align="center">
   <img
     src="https://ghchart.xqsit94.in/dark:default/divyanshichaurasia2024-beep"
     width="100%"
-    alt="GitHub Contribution Graph"
+    alt="GitHub Contribution Calendar"
   />
 </p>
 
