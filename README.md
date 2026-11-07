@@ -44,9 +44,8 @@ Exploring the world of AI and software development — turning ideas into code, 
   />
 </p>
 
-
-
 ---
+
 ### GitHub Activity
 
 <p align="center">
