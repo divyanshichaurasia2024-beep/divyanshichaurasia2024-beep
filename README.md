@@ -33,12 +33,6 @@ Exploring the world of AI and software development — turning ideas into code, 
 
 ---
 
-## Contribution Graph
-
-<img src="https://contribkit.app/user/divyanshichaurasia2024-beep.svg?palette=github&shape=square&background=%230d1117" width="100%" alt="GitHub Contribution Graph" />
-
----
-
 ### GitHub Activity
 
 <p align="center">
