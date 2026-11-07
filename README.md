@@ -4,7 +4,7 @@
 
 AI Engineer | Software Developer | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Explore+%7C+Create+%7C+Innovate...;C+%7C+C%2B%2B+%7C+Java+%7C;AI+%7C+Web+Development;Solving+Problems+Though+Technology."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Explore+%7C+Create+%7C+Innovate...;"/>
 
 </div>
 
