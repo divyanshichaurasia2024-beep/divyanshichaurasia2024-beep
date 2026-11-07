@@ -23,18 +23,6 @@ Exploring the world of AI and software development — turning ideas into code, 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshichaurasia2024-beep&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshichaurasia2024-beep&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## GitHub Streak
 
 <p align="center">
@@ -45,19 +33,31 @@ Exploring the world of AI and software development — turning ideas into code, 
 
 ---
 
+
 ## Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshichaurasia2024-beep&theme=tokyo-night&hide_border=true" width="100%" />
-
+  <img
+    src="https://ghchart.xqsit94.in/dark:default/divyanshichaurasia2024-beep"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
+
+
 ---
+### GitHub Activity
 
-## Fun Fact
+<p align="center">
+  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divyanshichaurasia2024-beep&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divyanshichaurasia2024-beep&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshichaurasia2024-beep&theme=github_dark" width="32%"/>
+</p>
 
-> My favorite way to learn something new? **Build it, break it, fix it, repeat.** 
+</p>
 
 ---
 
