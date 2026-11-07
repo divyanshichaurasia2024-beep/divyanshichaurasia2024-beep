@@ -108,7 +108,7 @@ Interested in developing projects around:
 
 ## 🌟 Fun Fact
 
-> My favorite way to learn something new? **Build it, break it, fix it, repeat.** 🔄💻
+> My favorite way to learn something new? **Build it, break it, fix it, repeat.** 
 
 ---
 
