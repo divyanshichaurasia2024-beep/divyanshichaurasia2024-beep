@@ -10,13 +10,13 @@ AI Engineer | Software Developer | Problem Solver
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Exploring the world of AI and software development — turning ideas into code, solving problems, and learning something new with every bug. Powered by curiosity, creativity, and a little stubbornness. 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -26,55 +26,7 @@ Exploring the world of AI and software development — turning ideas into code, 
 
 ---
 
-## 🚀 Projects & Interests
-
-### 🤖 AIML
-
-Exploring projects that combine **Artificial Intelligence AND Machiine learning** to solve real-world problems.
-
-### 🌐 Web Development
-
-Building interactive and practical web-based projects while improving my understanding of **HTML, CSS, JavaScript, and UI/UX**.
-
-### 💻 Programming & DSA
-
-Working on **Data Structures and Algorithms** to improve logical thinking, problem-solving ability, and coding skills.
-
-### 🧠 Future Projects
-
-Interested in developing projects around:
-
-* Artificial Intelligence
-* AR/VR & Visualization
-* Smart Education
-* Automation
-* Real-world problem solving
-
----
-
-## 🏆 Hackathons & Tech Activities
-
-* 🚀 Participated in **36-hour hackathons**
-* 🤖 Explored **AI & Robotics**
-* 🎤 Attended developer talks and technical workshops
-* 🧑‍💻 Worked on real-world problem statements
-* 🌐 Part of technical communities and student events
-* ⛓️ Volunteered in **Blockchain workshops & mini hackathons**
-
----
-
-## 📚 Currently Learning
-
-* Data Structures & Algorithms
-* Advanced Java & OOP
-* Web Development
-* Artificial Intelligence
-* UI/UX Design
-* Software Development & Problem Solving
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -86,7 +38,7 @@ Interested in developing projects around:
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
 
@@ -96,7 +48,7 @@ Interested in developing projects around:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 
@@ -106,13 +58,13 @@ Interested in developing projects around:
 
 ---
 
-## 🌟 Fun Fact
+## Fun Fact
 
 > My favorite way to learn something new? **Build it, break it, fix it, repeat.** 
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -133,11 +85,7 @@ Interested in developing projects around:
 ---
 
 <div align="center">
-
-### ✨ Thanks for visiting my profile!
-
-*"Learn. Build. Experiment. Repeat."* 🚀
-
+    
 ![](https://komarev.com/ghpvc/?username=divyanshichaurasia2024-beep\&color=blueviolet\&style=flat)
 
 </div>
