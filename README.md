@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Divyanshi Chaurasia
 
-### 💻 Computer Science Engineering Student • Developer • Tech Enthusiast
+AI Engineer | Software Developer | Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Explore+%7C+Create+%7C+Innovate...;C+%7C+C%2B%2B+%7C+Java+%7C;AI+%7C+Web+Development;Solving+Problems+Though+Technology."/>
 
@@ -12,13 +12,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 Computer Science Engineering Student
-* 💻 Passionate about programming and problem solving
-* 🚀 Interested in building practical and innovative projects
-* 🤖 Exploring **AI, and emerging technologies**
-* 🧠 Currently strengthening my **DSA and programming fundamentals**
-* 🌱 Always learning something new and improving my technical skills
-* 🏆 Actively participating in **hackathons, workshops, and tech communities**
+Exploring the world of AI and software development — turning ideas into code, solving problems, and learning something new with every bug. Powered by curiosity, creativity, and a little stubbornness. 
 
 ---
 
@@ -112,21 +106,6 @@ Interested in developing projects around:
 
 ---
 
-## 💡 My Learning Philosophy
-
-```java
-while (learning)
-{
-    Learn();
-    Build();
-    Fail();
-    Improve();
-    Repeat();
-}
-```
-
----
-
 ## 🌟 Fun Fact
 
 > My favorite way to learn something new? **Build it, break it, fix it, repeat.** 🔄💻
@@ -144,6 +123,10 @@ while (learning)
 <a href="https://www.linkedin.com/in/divyanshi-chaurasia-726123382">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:divyanshichaurasia2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 </p>
 
