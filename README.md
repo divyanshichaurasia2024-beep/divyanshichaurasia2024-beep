@@ -51,10 +51,6 @@ Exploring the world of AI and software development — turning ideas into code, 
 
 <p align="center">
 
-<a href="https://github.com/divyanshichaurasia2024-beep">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/divyanshi-chaurasia-726123382">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
