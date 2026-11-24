@@ -9,7 +9,7 @@ AI Engineer | Software Developer | Problem Solver
 
 ## About Me
 
-Delving into AI sphere and working with its tools to learn and explore . Following my routine to add something new in my bucket list.  With every bugs, new ideas, approach, and skills are discovered. My backend  is inspired by curiosity, creativity and consistency. 
+Delving into AI sphere and working with its tools to learn and explore . Following my routine to keep updating my bucket list.  With every bugs, new ideas, approach, and skills are discovered. My backend  is inspired by curiosity, creativity and consistency. 
 
 ---
 
