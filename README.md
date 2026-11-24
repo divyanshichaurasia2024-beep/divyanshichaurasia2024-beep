@@ -9,7 +9,7 @@ AI Engineer | Software Developer | Problem Solver
 
 ## About Me
 
-Exploring the world of AI and software development — turning ideas into code, solving problems, and learning something new with every bug. Powered by curiosity, creativity, and a little stubbornness. 
+Delving into AI sphere and working with its tools to learn and explore . Following my routine to add something new in my bucket list.  With every bugs, new ideas, approach, and skills are discovered. My backend  is inspired by curiosity, creativity and consistency. 
 
 ---
 
