@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Divyanshi Chaurasia
+# Hey, I'm Divyanshi Chaurasia
 AI Engineer | Software Developer | Problem Solver
 
 </div>
